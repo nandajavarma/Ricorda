@@ -1,7 +1,0 @@
-= Lecture Notes =
-    * [[Databases]]
-    * [[FOPs]]
-    * FLC
-    * [[PPL]]
-    * [[AOS]]
-    * Algebra
